@@ -1,0 +1,91 @@
+body{
+	background-color: #298eea;
+}
+
+.centerimage{
+	width: 100%;
+	height: 35%;
+}
+
+.logo{
+	height: 35px;
+	padding: 40px;
+	padding-bottom: 10px;
+	padding-top: 40px;
+	display: block;
+	margin: 0 auto 30px;
+}
+
+.centerdisplay{
+	margin: auto;
+	width:400px;
+	background-color: white;
+	border-style: line;
+	border-color: grey;
+	border-width: 2px;
+	height: 440px;
+	border-radius: 3px;
+}
+
+input{
+	width: 288px;
+	padding: 15px;
+	border-style: line;
+	border-color: grey;
+	border-width: 2px;
+	border-radius: 3px;
+	margin-right: 40px;
+	margin-left: 40px;	
+	box-shadow: none;
+	font-size: 16px;
+}
+
+.centerlogin{
+	margin: auto;
+	width:400px;
+}
+
+button{
+	background-color: #15CD72;
+	border-style: line;
+	border-color: #15CD72;
+	border-width: 2px;
+	height: 53px;
+	box-shadow: none;
+	width: 322px;
+	padding: 15px;
+	border-radius: 3px;
+	margin-top: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color:white;
+	text-align: center;
+}
+
+h1{
+	color:grey;
+	text-align: center;
+	padding: 40px;
+	padding-bottom: 20px;
+	font-family: 'Open Sans light', sans-serif;
+}
+
+h2{
+	padding-right: 40px;
+	padding-left: 40px;
+	font-family: 'Open Sans light', sans-serif;
+	font-size: 16px;
+}
+
+h3{
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans light', sans-serif;
+	font-size: 14px;
+}
+
+a{
+	color: white;
+}
